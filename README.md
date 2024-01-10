@@ -8,7 +8,7 @@ The goal of the project is to populate the page with three counters that increme
 
 ### View My Project:
 
-![Screenshot]()
+![Screenshot](img/smartmockups_incr-counter.jpg)
 
 ## Features
 
